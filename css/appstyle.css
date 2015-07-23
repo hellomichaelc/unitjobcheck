@@ -1,0 +1,47 @@
+.item-amount {
+	padding-top: 15px;
+}
+
+.list-item-amount {
+	padding-right: 20px;
+}
+
+.item-name {
+	padding-top: 15px;
+	padding-bottom: 10px;
+}
+
+.nested-list {
+	display: none;
+}
+
+.nested-parent-list {
+	display: block;
+}
+
+.tile-grid .tile-title {
+	margin: 0 0 3px 0;
+}
+
+.media-list-group .list-group-item  {
+	border-bottom: 1px solid #e8e8e8;
+	padding: 8px 15px;
+	margin-bottom: 0px;
+}
+
+.list-group .nested-list {
+	padding-top: 0px;
+}
+
+.list-group {
+	margin-bottom: 0px;
+}
+
+.list-item-details {
+	padding: 1px 25px;
+	padding-right: 45px;
+}
+
+.tile-media {
+	color: #d6d6d6;
+}
